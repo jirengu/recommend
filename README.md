@@ -14,3 +14,16 @@
 
 第五步：完成。等待jirengu账号通过你的请求。
 
+
+第六步：当jirengu的账号下recommend项目有更新时，自己的项目下有提示
+![5](http://gitlab.jirengu.com/uploads/web/recommend/c667c10432/5.png)
+
+![6](http://gitlab.jirengu.com/uploads/web/recommend/7f63a05e79/6.png)
+
+![7](http://gitlab.jirengu.com/uploads/web/recommend/ce7d9b9140/7.png)
+
+![8](http://gitlab.jirengu.com/uploads/web/recommend/0b6c47bc77/8.png)
+
+![9](http://gitlab.jirengu.com/uploads/web/recommend/750b446c5d/9.png)
+
+现在和原账号数据保持同步了
