@@ -1,5 +1,5 @@
 # 如何贡献使用说明
-大家可以通过github的pullRequest功能申请提交代码（试一试）
+大家可以通过github的pullRequest功能申请提交代码（试一试2）
 
 ## 如何去做
 第一步：登录自己的github账号，打开本库的页面 [https://github.com/jirengu/recommend](https://github.com/jirengu/recommend)
